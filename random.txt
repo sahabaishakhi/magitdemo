@@ -1,1 +1,3 @@
 Edit in branch
+
+Edit number 3 for conflict res
